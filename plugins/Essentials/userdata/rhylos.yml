@@ -1,0 +1,43 @@
+uuid: 132a824b-27b8-43ce-a84e-374e73d8dc45
+timestamps:
+  login: 1426375857823
+  lastteleport: 1426375282860
+  logout: 1426376487899
+ipAddress: 67.251.81.64
+homes:
+  home:
+    world: world
+    x: -68.71209989644628
+    y: 72.0
+    z: 87.59252080888372
+    yaw: -76.049835
+    pitch: 13.349988
+  quarry:
+    world: world
+    x: -27.406542839973124
+    y: 63.0
+    z: 156.52765427809547
+    yaw: -219.90149
+    pitch: 36.29998
+  two:
+    world: world
+    x: 36.69999998807907
+    y: 63.0
+    z: 156.8115783027045
+    yaw: -110.25131
+    pitch: 50.84997
+lastlocation:
+  world: world
+  x: -114370.27239965516
+  y: 66.0
+  z: 190651.26810498035
+  yaw: -71.39986
+  pitch: 35.699997
+logoutlocation:
+  world: world
+  x: -54.82847082821989
+  y: 73.0
+  z: 87.30000001192093
+  yaw: -138.90002
+  pitch: 29.999949
+afk: false
